@@ -47,9 +47,9 @@ Each folder may contain:
 
 | Day | Project             | Concepts                            | Status         |
 | --- | ------------------- | ----------------------------------- | -------------- |
-| 01  | Band Name Generator | Variables, Input, Strings           | ✅ Completed    |
-| 02  | Tip Calculator      | Data Types, Mathematical Operations | ✅ Completed    |
-| 03  | Treasure Island     | Conditional Statements              | 🚧 In Progress |
+| 01  | Band Name Generator | Variables, Input, Strings           | ✅ Completed   |
+| 02  | Tip Calculator      | Data Types, Mathematical Operations | 🚧 In Progres  |
+| 03  | Treasure Island     | Conditional Statements              | 🚧 Upcoming |
 
 ## 🎯 My Goals
 
