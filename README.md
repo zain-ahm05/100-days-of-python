@@ -49,7 +49,8 @@ Each folder may contain:
 | --- | ------------------- | ----------------------------------- | -------------- |
 | 01  | Band Name Generator | Variables, Input, Strings           | ✅ Completed   |
 | 02  | Tip Calculator      | Data Types, Mathematical Operations | ✅ Completed |
-| 03  | Treasure Island     | Conditional Statements              | 🚧 Upcoming |
+| 03  | Treasure Island     | Conditional Statements              | ✅ Completed |
+| 04 | Rock Paper Scissors    | Random Module          | ✅ Completed |
 
 ## 🎯 My Goals
 
