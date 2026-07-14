@@ -51,6 +51,9 @@ Each folder may contain:
 | 02  | Tip Calculator      | Data Types, Mathematical Operations | ✅ Completed |
 | 03  | Treasure Island     | Conditional Statements              | ✅ Completed |
 | 04 | Rock Paper Scissors    | Random Module          | ✅ Completed |
+| 05 | Password Generator    | Python loops        | 🚧 in progress |
+| 06 | Escaping The Maze    | Functions & Karel        | 🚧 in progress |
+
 
 ## 🎯 My Goals
 
