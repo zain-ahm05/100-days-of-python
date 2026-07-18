@@ -52,7 +52,8 @@ Each folder may contain:
 | 03  | Treasure Island     | Conditional Statements              | ✅ Completed |
 | 04 | Rock Paper Scissors    | Random Module          | ✅ Completed |
 | 05 | Password Generator    | Python loops        |  ✅ Completed|
-| 06 | Escaping The Maze    | Functions & Karel        | 🚧 in progress |
+| 06 | Escaping The Maze    | Functions & Karel        | ✅ Completed |
+| 07 | Hangman Game    | Above concepts       | ✅ Completed |
 
 
 ## 🎯 My Goals
