@@ -54,6 +54,8 @@ Each folder may contain:
 | 05 | Password Generator    | Python loops        |  ✅ Completed|
 | 06 | Escaping The Maze    | Functions & Karel        | ✅ Completed |
 | 07 | Hangman Game    | Above concepts       | ✅ Completed |
+| 08 | Caesar Cipher    | Functions & Inputs        | ✅ Completed |
+| 09 | Blind Auction Project   | Dictionaries    | ✅ Completed |
 
 
 ## 🎯 My Goals
