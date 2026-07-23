@@ -56,6 +56,7 @@ Each folder may contain:
 | 07 | Hangman Game    | Above concepts       | ✅ Completed |
 | 08 | Caesar Cipher    | Functions & Inputs        | ✅ Completed |
 | 09 | Blind Auction Project   | Dictionaries    | ✅ Completed |
+| 10 | Calculator   | Functions with outputs    | ✅ Completed |
 
 
 ## 🎯 My Goals
